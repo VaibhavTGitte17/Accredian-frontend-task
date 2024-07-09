@@ -30,7 +30,7 @@ function Navbar() {
           <div className=" flex space-x-2">
             
             <h1 className="font-semibold text-xl cursor-pointer text-blue-800">
-              Accardian<span className="text-green-500 text-2xl"></span>
+              Accredian<span className="text-green-500 text-2xl"></span>
               <p className="text-sm">Refer And Earn</p>
             </h1>
           </div>
